@@ -1,0 +1,10 @@
+.mainheader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mainheader-title {
+  text-align: center;
+  font-size: 16px;
+  color: blueviolet;
+}
